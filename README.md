@@ -19,6 +19,7 @@ This is a repo containing the steps and required repos to run the CICD project
 -  https://github.com/OmarLaz97/Backend_CICD
 -  https://github.com/OmarLaz97/Ansible_CICD
 -  https://github.com/OmarLaz97/Terraform_CICD 
+-  https://github.com/OmarLaz97/k8s_CICD
 
 
 ## All the commands needed to run will be found in the read me of each repository
